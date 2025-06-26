@@ -1,5 +1,6 @@
 <script setup>
 import { useCoursesStore } from '../stores/courses'
+import {ref} from 'vue'
 
 const coursesStore=useCoursesStore()
 const courses=coursesStore.courses
@@ -91,7 +92,7 @@ function saveData(){
 
             </v-row>
              <v-row>
-                <v-btn block color="primary">Submit</v-btn>
+                <v-btn block color="orange">Submit</v-btn>
              </v-row>
 
         

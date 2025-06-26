@@ -20,6 +20,12 @@
     cover
   ></v-carousel-item>
 
+  <v-carousel-item
+    src="public/maksym-tymchyk-bGOBoZorNoQ-unsplash.jpg"
+    cover
+  ></v-carousel-item>
+
+
 </v-carousel>
 
    <!--Latest from jitegemee-->

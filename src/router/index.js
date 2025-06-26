@@ -5,7 +5,7 @@ import ContactUs from '../components/ContactUs.vue'
 import Courses from '../components/Courses.vue'
 import Events  from '../components/Events.vue'
 import HomePage from '../components/HomePage.vue'
-import Library from '../components/LIbrary.vue'
+import Library from '../components/Library.vue'
 import LogIn from '../components/LogIn.vue'
 import StudentLife from '../components/StudentLIfe.vue'
 const router = createRouter({

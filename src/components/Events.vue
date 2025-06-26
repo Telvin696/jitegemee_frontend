@@ -39,9 +39,9 @@ const events = eventsStore.events
     </v-card-text>
 
     <v-card-actions>
-      <v-btn color="orange" :text="event.category"></v-btn>
+      <v-btn color="black" :text="event.category"></v-btn>
 
-      <v-btn color="orange" text="Explore"></v-btn>
+      <v-btn color="black" text="Explore"></v-btn>
     </v-card-actions>
   </v-card>
 

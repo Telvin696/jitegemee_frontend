@@ -1,6 +1,6 @@
 <template>
 <v-app-bar color ="orange">
-    <v-app-bar-title>Jitegemee University</v-app-bar-title>
+    <v-app-bar-title>WHITE ACADEMY</v-app-bar-title>
     <v-btn to="/"color="black" > Home </v-btn>
     <v-btn to="/About Us" color="black" > About us </v-btn>
     <v-btn to="/Courses"  color="blacke" > Courses </v-btn>
